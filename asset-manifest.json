@@ -1,15 +1,15 @@
 {
-  "main.css": "/contacts/static/css/main.ee97edf6.chunk.css",
-  "main.js": "/contacts/static/js/main.7a532c7a.chunk.js",
-  "main.js.map": "/contacts/static/js/main.7a532c7a.chunk.js.map",
-  "static/css/1.d5a5af9c.chunk.css": "/contacts/static/css/1.d5a5af9c.chunk.css",
-  "static/js/1.695fc872.chunk.js": "/contacts/static/js/1.695fc872.chunk.js",
-  "static/js/1.695fc872.chunk.js.map": "/contacts/static/js/1.695fc872.chunk.js.map",
-  "runtime~main.js": "/contacts/static/js/runtime~main.05afaf23.js",
-  "runtime~main.js.map": "/contacts/static/js/runtime~main.05afaf23.js.map",
-  "static/css/1.d5a5af9c.chunk.css.map": "/contacts/static/css/1.d5a5af9c.chunk.css.map",
-  "static/css/main.ee97edf6.chunk.css.map": "/contacts/static/css/main.ee97edf6.chunk.css.map",
-  "index.html": "/contacts/index.html",
-  "precache-manifest.4ad41b2942b0c81ecb95d8c3f43e2490.js": "/contacts/precache-manifest.4ad41b2942b0c81ecb95d8c3f43e2490.js",
-  "service-worker.js": "/contacts/service-worker.js"
+  "main.css": "/karthik2902/contacts/static/css/main.ee97edf6.chunk.css",
+  "main.js": "/karthik2902/contacts/static/js/main.d7bf5280.chunk.js",
+  "main.js.map": "/karthik2902/contacts/static/js/main.d7bf5280.chunk.js.map",
+  "static/css/1.d5a5af9c.chunk.css": "/karthik2902/contacts/static/css/1.d5a5af9c.chunk.css",
+  "static/js/1.695fc872.chunk.js": "/karthik2902/contacts/static/js/1.695fc872.chunk.js",
+  "static/js/1.695fc872.chunk.js.map": "/karthik2902/contacts/static/js/1.695fc872.chunk.js.map",
+  "runtime~main.js": "/karthik2902/contacts/static/js/runtime~main.cd914ef2.js",
+  "runtime~main.js.map": "/karthik2902/contacts/static/js/runtime~main.cd914ef2.js.map",
+  "static/css/1.d5a5af9c.chunk.css.map": "/karthik2902/contacts/static/css/1.d5a5af9c.chunk.css.map",
+  "static/css/main.ee97edf6.chunk.css.map": "/karthik2902/contacts/static/css/main.ee97edf6.chunk.css.map",
+  "index.html": "/karthik2902/contacts/index.html",
+  "precache-manifest.2fdf52c1138ce0e1c3f533e77665d085.js": "/karthik2902/contacts/precache-manifest.2fdf52c1138ce0e1c3f533e77665d085.js",
+  "service-worker.js": "/karthik2902/contacts/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/contacts/precache-manifest.4ad41b2942b0c81ecb95d8c3f43e2490.js"
+  "/karthik2902/contacts/precache-manifest.2fdf52c1138ce0e1c3f533e77665d085.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/contacts/index.html", {
+workbox.routing.registerNavigationRoute("/karthik2902/contacts/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
